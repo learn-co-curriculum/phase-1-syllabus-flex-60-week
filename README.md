@@ -29,16 +29,16 @@ review the same concepts you explored in the prework.
 
 - Welcome to Phase 1 (2)
 - JavaScript Fundamentals (11)
-  - ⭐️ Quiz: JS Fundamentals
+  - ⭐️ JavaScript Fundamentals Quiz
 - Functions in JavaScript (10)
-  - ⭐️ Quiz: Functions in JS
+  - ⭐️ Functions in JavaScript Quiz
 - Scope (6)
-  - ⭐️ Quiz: Scope
+  - ⭐️ Scope Quiz
 - Working with Data Structures in JavaScript (13)
-  - ⭐️ Quiz: Working with Objects in JS
+  - ⭐️ Working with Objects in JavaScript Quiz
 - Video Series: Array Iteration (7)
 - Array Iteration (12)
-  - ⭐️ Quiz: Working with Arrays in JS
+  - ⭐️ Working with Arrays in JavaScript Quiz
 - JavaScript Advanced Syntax (3)
 
 ## Weeks 4 – 6
@@ -55,12 +55,11 @@ a remote data source, like a web API).
 
 - Introducing Flatiron's Three Pillars of JavaScript (2)
 - JavaScript and the DOM (11)
-  - ⭐️ Quiz: JavaScript and The DOM
+  - ⭐️ JavaScript and The DOM Quiz
 - JavaScript Events (10)
-  - ⭐️ Challenge: TaskLister Mini-Project
-  - ⭐️ Quiz: JavaScript Events
+  - ⭐️ JavaScript Events Quiz
 - Communicating with the Server (17)
-  - ⭐️ Quiz: Communicating with the Server
+  - ⭐️ Communicating with the Server
   - ⭐️ Additional Practice: Fetch Dog CEO (in _Additional Practice_ module)
 
 ## Weeks 7 – 9
@@ -75,13 +74,12 @@ working common features of on single-page applications.
 **Total Assignments: (18 plus optionals)**
 
 - Combining the Three Pillars (2)
-  - ⭐️ Additional Practice: Toy Tale (in _Additional Practice_ module)
-- Context in JavaScript (7)
-  - ⭐️ Quiz: Context in JavaScript
-- Object-Oriented JavaScript (15 - optional)
-  - ⭐️ Quiz: Object-Oriented JavaScript (optional)
-- JavaScript Inheritance (7 - optional)
 - Additional Practice: JavaScript (9)
+  - ⭐️ Additional Practice: Toy Tale
+- Context in JavaScript (7)
+  - ⭐️ Context in JavaScript Quiz
+- Object-Oriented JavaScript (15 - optional)
+- JavaScript Inheritance (7 - optional)
 - JavaScript Project Prep
 - Additional Practice: HTML Forms and Modern Elements (8 - optional)
 
