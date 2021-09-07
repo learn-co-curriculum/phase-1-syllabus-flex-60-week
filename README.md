@@ -89,4 +89,4 @@ Project time! You'll be building a JavaScript project using all the tools you've
 learned since starting this phase. The project is your chance to solidify your
 understanding of the material, and to get creative and expand your horizons.
 
-Details for the project can be found in the Milestones module.
+Details for the project can be found in the Phase 1 Project module.
