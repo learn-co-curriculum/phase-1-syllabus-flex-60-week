@@ -60,7 +60,6 @@ a remote data source, like a web API).
   - ⭐️ JavaScript Events Quiz
 - Communicating with the Server (17)
   - ⭐️ Communicating with the Server
-  - ⭐️ Additional Practice: Fetch Dog CEO (in _Additional Practice_ module)
 
 ## Weeks 7 – 9
 
