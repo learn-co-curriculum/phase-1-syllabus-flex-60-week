@@ -70,13 +70,15 @@ and understand the language at a deeper level. You'll also start prepping for
 your first project by working on some smaller practice exercises to get practice
 working common features of on single-page applications.
 
-**Total Assignments: (18 plus optionals)**
+**Total Assignments: (28 plus optionals)**
 
 - Combining the Three Pillars (2)
 - Additional Practice: JavaScript (9)
   - ⭐️ Additional Practice: Toy Tale
 - Context in JavaScript (7)
   - ⭐️ Context in JavaScript Quiz
+- Algorithmic Problem Solving (10)
+  - ⭐️ Algorithmic Problem Solving Quiz
 - Object-Oriented JavaScript (15 - optional)
 - JavaScript Inheritance (7 - optional)
 - JavaScript Project Prep
