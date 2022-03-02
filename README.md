@@ -75,14 +75,13 @@ working common features of on single-page applications.
 - Combining the Three Pillars (2)
 - Additional Practice: JavaScript (9)
   - ⭐️ Additional Practice: JavaScript Quotes
-- Context in JavaScript (7)
-  - ⭐️ Context in JavaScript Quiz
 - Algorithmic Problem Solving (10)
   - ⭐️ Algorithmic Problem Solving Quiz
-- Object-Oriented JavaScript (15 - optional)
-- JavaScript Inheritance (7 - optional)
-- JavaScript Project Prep
-- Additional Practice: HTML Forms and Modern Elements (8 - optional)
+- Context in JavaScript (7)
+  - ⭐️ Context in JavaScript Quiz
+- (Optional) Object-Oriented JavaScript (15)
+- (Optional) JavaScript Inheritance (7)
+- (Optional) Additional Practice: HTML Forms and Modern Elements (8)
 
 ## Weeks 10 – 12
 
