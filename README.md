@@ -73,8 +73,9 @@ working common features of on single-page applications.
 **Total Assignments: (28 plus optionals)**
 
 - Combining the Three Pillars (2)
-- Additional Practice: JavaScript (9)
-  - ⭐️ Additional Practice: JavaScript Quotes
+- Applying Your Learning (4)
+  - ⭐️ GitHub Search App
+- (Optional) Additional Practice: JavaScript (6)
 - Algorithmic Problem Solving (10)
   - ⭐️ Algorithmic Problem Solving Quiz
 - Context in JavaScript (7)
