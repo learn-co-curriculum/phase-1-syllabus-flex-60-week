@@ -23,7 +23,7 @@ falling behind, make sure to communicate with your instructor.
 In the first three weeks, you'll learn the fundamentals of programming through
 JavaScript, focusing on writing **functions** and working with **arrays** and
 **objects**. There are a good amount of lessons to complete, but many of these
-review the same concepts you explored in the prework.
+review the same concepts you explored in Software Engineering Prep.
 
 **Total Assignments: (64)**
 
